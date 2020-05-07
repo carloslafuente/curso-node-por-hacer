@@ -1,1 +1,5 @@
-[{"descripcion":"Ir al cine","completado":false}]
+[
+  { "descripcion": "Ir al cine", "completado": false },
+  { "descripcion": "Pasear al perro", "completado": false },
+  { "descripcion": "Estudiar nodejs", "completado": false }
+]
